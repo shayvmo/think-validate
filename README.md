@@ -1,6 +1,8 @@
 # think-validate
 
-基于PHP8.0+ 的Validate实现，同步ThinkPHP8
+基于PHP8.0+ 的Validate实现。
+
+原仓库： [https://github.com/top-think/think-validate](https://github.com/top-think/think-validate)
 
 ## 安装
 ~~~

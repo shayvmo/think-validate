@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-		"php": ">=8.0"
+		"php": ">=8.0",
+        "ext-fileinfo": "*"
     },
     "autoload": {
         "psr-4": {
@@ -17,5 +18,8 @@
         },
         "files": [
         ]
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.58"
     }
 }
